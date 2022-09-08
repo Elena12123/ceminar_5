@@ -27,7 +27,8 @@ foreach (int item in array)
         chet= count+1;
         count++;
     }
-      
+   
+   
 }
 int[] arr={chet, ne_chet};
 return arr;
